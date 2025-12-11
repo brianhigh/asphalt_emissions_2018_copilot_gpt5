@@ -11,7 +11,7 @@ DOI: <https://doi.org/10.1039/D3EA00066D>
 
 ## Files & Links
 
-- `asphalt_us_states_map.R` — main R script
+- [`asphalt_us_states_map.R`](asphalt_us_states_map.R) — main R script
 - [`plan.md`](plan.md)
 - [`prompt.md`](prompt.md)
 - [`tasks.md`](tasks.md)
