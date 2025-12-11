@@ -1,0 +1,24 @@
+# R
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+.Renviron
+.Rprofile
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# OS/macOS
+.DS_Store
+Thumbs.db
+
+# Python caches (if any)
+__pycache__/
+*.pyc
+
+# NOTE: Do NOT ignore data/ or plots/
+# data/
+# plots/
