@@ -16,7 +16,6 @@ DOI: <https://doi.org/10.1039/D3EA00066D>
 - [`prompt.md`](prompt.md)
 - [`tasks.md`](tasks.md)
 - [`walkthrough.md`](walkthrough.md)
-- [`prompt.md`](prompt.md)
 - `.gitignore`
 
 ## Project Structure
