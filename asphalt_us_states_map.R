@@ -77,7 +77,7 @@ try({
   }
 })
 
-# --- Build plot using plot_usmap (handles AK/HI and sf internally) ---
+# --- Build plot using plot_usmap (including AK/HI) ---
 p <- tryCatch({
   usmap::plot_usmap(
     regions = "states",

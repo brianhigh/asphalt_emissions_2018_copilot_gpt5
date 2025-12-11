@@ -1,6 +1,6 @@
 # U.S. Asphalt Emissions Choropleth (2018)
 
-This project builds a U.S. states choropleth map of *per-capita* asphalt-related emissions using the EPA State County Inventory (2018). The map includes Alaska and Hawaii and uses vivid colors (dark green → yellow → red).
+This project builds a U.S. states choropleth map of *per-capita* asphalt-related emissions using the EPA State County Inventory (2018).
 
 ![Map preview](plots/us_asphalt_emissions_2018.png)
 
